@@ -1,0 +1,27 @@
+body{
+    background-image: url(neon4.png); background-size: cover;
+}
+
+
+.table{
+    
+    float: left;
+    border-collapse: collapse; 
+    margin-left: 20px;
+    
+    
+}
+
+
+.orta .table {
+    
+    background-position: center; 
+}
+
+.ilkgun td{
+    padding: 20px; text-align: center; 
+}
+
+.ilkgun td a{
+    text-decoration: none;
+}
